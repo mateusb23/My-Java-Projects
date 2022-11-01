@@ -1,1 +1,1 @@
-Este é um projeto com o gerenciador de projetos Maven, Hibernate e o JPA(java persistence API). É um projeto com o banco de dados MariaDB, onde podemos ver linhas de comentários mostrando conceitos e iniciais relacionados à especificação JSR 338 JPA. 
+Este é um projeto com o gerenciador de projetos Maven, Hibernate e o JPA(java persistence API). É um projeto com o banco de dados MariaDB, onde podemos ver linhas de comentários mostrando conceitos iniciais relacionados à especificação JSR 338 JPA. 
